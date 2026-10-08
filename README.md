@@ -1,6 +1,6 @@
 <div align="center">
 
-# João
+# João Gabriel Freitas
 
 ### Desenvolvedor Full Stack
 
